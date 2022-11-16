@@ -1,0 +1,7 @@
+Nowy użytkownik zarejestrowany w systemie B2B
+Dane klienta:
+{id_customer}
+{firstname} {lastname}
+{email}
+{company}
+{siret}

@@ -1,0 +1,2 @@
+Witaj {firstname}
+Twoje konto B2B w serwisie {shop_name} zostało pomyślnie zaakceptowane!

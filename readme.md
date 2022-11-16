@@ -1,0 +1,1 @@
+# Przypadek anulowanego zamówienia

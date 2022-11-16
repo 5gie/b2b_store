@@ -1,0 +1,13 @@
+.rounded {
+  border-radius: 4px !important;
+}
+.bootstrap .badge {
+  padding: 0 5px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+.bootstrap .table td {
+  padding: 8px !important;
+}
